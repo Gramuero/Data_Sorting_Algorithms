@@ -1,0 +1,6 @@
+﻿  Sort.cpp
+C:\Users\Andrei\source\repos\Sort\Sort\Sort.cpp(25,11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Andrei\source\repos\Sort\Sort\Sort.cpp(20,30): warning C4101: y2: неиспользованная локальная переменная
+C:\Users\Andrei\source\repos\Sort\Sort\Sort.cpp(20,26): warning C4101: y1: неиспользованная локальная переменная
+C:\Users\Andrei\source\repos\Sort\Sort\Sort.cpp(20,34): warning C4101: y3: неиспользованная локальная переменная
+  Sort.vcxproj -> C:\Users\Andrei\source\repos\Sort\Debug\Sort.exe
